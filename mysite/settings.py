@@ -25,7 +25,7 @@ SECRET_KEY = ')#_xrdeu7+58(7i5u)50-lr3^phikjt43v5s+8ovgl@%m_!)_j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<lmoura.pythonanywhere.com>']
+ALLOWED_HOSTS = ['127.0.0.1', 'lmoura.pythonanywhere.com']
 
 
 # Application definition
